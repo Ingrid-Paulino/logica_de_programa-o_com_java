@@ -1,0 +1,12 @@
+Tipos de dados:
+ - O tipo indica qual o tipo de dado que a variavel vai armazenar;
+ - Pricipais Tipos:
+   - Numérico : 
+      Inteiros( Byte, Short, Integer, Long)
+      Decimais( Float, Double )
+   - Texto : 
+      Char(Guarda um caracter)
+      String(Guarda uma string com varios caracters)
+   - Lógico :
+      Boolean( True, False)
+  
